@@ -1,0 +1,34 @@
+baseURL = 'https://rookie0031.github.io/nebula22/'
+languageCode = 'ko-kr'
+title = 'Nebula22'
+theme = 'PaperMod'
+
+[params]
+  env = "production"
+  description = "Nebula22 블로그"
+  author = "Your Name"
+  
+  # 홈페이지 설정
+  homeInfoParams.Title = "안녕하세요 👋"
+  homeInfoParams.Content = "Nebula22에 오신 것을 환영합니다."
+  
+  # 소셜 링크
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/rookie0031"
+
+[menu]
+  [[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 10
+  
+  [[menu.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 20
+  
+  [[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 30

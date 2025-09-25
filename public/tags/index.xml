@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Nebula22</title>
+    <link>http://localhost:1313/nebula22/tags/</link>
+    <description>Recent content in Tags on Nebula22</description>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Thu, 25 Sep 2025 15:20:20 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/nebula22/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>http://localhost:1313/nebula22/tags/hugo/</link>
+      <pubDate>Thu, 25 Sep 2025 15:20:20 +0900</pubDate>
+      <guid>http://localhost:1313/nebula22/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>블로그</title>
+      <link>http://localhost:1313/nebula22/tags/%EB%B8%94%EB%A1%9C%EA%B7%B8/</link>
+      <pubDate>Thu, 25 Sep 2025 15:20:20 +0900</pubDate>
+      <guid>http://localhost:1313/nebula22/tags/%EB%B8%94%EB%A1%9C%EA%B7%B8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>시작</title>
+      <link>http://localhost:1313/nebula22/tags/%EC%8B%9C%EC%9E%91/</link>
+      <pubDate>Thu, 25 Sep 2025 15:20:20 +0900</pubDate>
+      <guid>http://localhost:1313/nebula22/tags/%EC%8B%9C%EC%9E%91/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

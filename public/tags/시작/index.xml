@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>시작 on Nebula22</title>
+    <link>http://localhost:1313/nebula22/tags/%EC%8B%9C%EC%9E%91/</link>
+    <description>Recent content in 시작 on Nebula22</description>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Thu, 25 Sep 2025 15:20:20 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/nebula22/tags/%EC%8B%9C%EC%9E%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>첫 번째 포스트</title>
+      <link>http://localhost:1313/nebula22/posts/my-first-post/</link>
+      <pubDate>Thu, 25 Sep 2025 15:20:20 +0900</pubDate>
+      <guid>http://localhost:1313/nebula22/posts/my-first-post/</guid>
+      <description>Nebula22 블로그의 첫 번째 포스트입니다.</description>
+    </item>
+  </channel>
+</rss>
