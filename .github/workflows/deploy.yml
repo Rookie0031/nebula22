@@ -25,13 +25,6 @@ jobs:
           extended: true
       - name: Build
         run: |
-          ls -la
-          echo "Current directory:"
-          pwd
-          echo "Hugo config check:"
-          ls -la hugo.toml || ls -la config.toml || ls -la config.yaml || echo "No config file found"
-          echo "Themes directory:"
-          ls -la themes/
           hugo --minify \
             --baseURL "https://rookie0031.github.io/nebula22/"
       - name: Upload artifact
